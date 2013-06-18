@@ -1,0 +1,11 @@
+# -*- coding:utf-8; mode:yaml; -*-
+
+pygments: true
+markdown: rdiscount
+
+title: konstantin.co.uk
+author: Konstantin
+email: root@konstantin.co.uk
+
+# google_analytics:
+#   account: UA-XXXXX-X
