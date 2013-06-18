@@ -1,0 +1,8 @@
+---
+layout: bare
+title: test
+description: test description.
+categories: none
+---
+
+!{width: 650px; height: 502px;}http://farm8.staticflickr.com/7363/9013667772_39ddb90ccd_o.jpg(1306101)!:http://www.flickr.com/photos/ykonsu/9013667772
